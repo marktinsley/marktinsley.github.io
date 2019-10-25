@@ -2,10 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dcd877a-844a-48a5-be4e-f1e140b8d689" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/404/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/build/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/build/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/build/mix-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_archive.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_bag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_bars.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_book-bookmark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_book.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_bookmark-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_bookmark-remove.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_box.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_briefcase.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_button-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_button-remove.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_camera.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_cart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_chart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_chat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_circle-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_circle-check.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_circle-remove.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_cloud-download.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_copy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_credit-card.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_data.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_device-mobile.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_diamond.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_download.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_edit.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_email.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_expand.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_file.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_flag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_folder.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_gallery.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_grid-list.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_grid.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_heart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_home.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_image.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_layers.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_list.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_location.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_lock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_menu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_mic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_money.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_print.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_saturation.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_settings.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_speed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_store.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_tag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_time.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_trash.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_ui.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_upload.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_user.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_wallet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_weather.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_write.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/docsearch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/icon-stack.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/icon-terminal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/icon-window.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/magnifying-glass.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/algolia-docsearch/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/custom-404-page/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/customizing-your-site/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/getting-started/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/navigation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/sitemap.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/assets/images/office.png" afterPath="$PROJECT_DIR$/assets/images/office.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/assets/img/location.svg" afterPath="$PROJECT_DIR$/assets/img/location.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/assets/img/phone.svg" afterPath="$PROJECT_DIR$/assets/img/phone.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/sitemap.xml" afterPath="$PROJECT_DIR$/docs/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.blade.php" afterPath="$PROJECT_DIR$/source/index.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,12 +93,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" column="69" lean-forward="false" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
-              <folding />
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -32,9 +112,11 @@
     <findStrings>
       <find>logo\W</find>
       <find>logo</find>
+      <find>igsaw Docs Starter Template</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/source</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -97,104 +179,6 @@
               <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
               <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tasks" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="illuminate" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="illuminate" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="contracts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="illuminate" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="contracts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Auth" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tightenco" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tightenco" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="jigsaw-docs-template" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tightenco" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="jigsaw-docs-template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tightenco" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="jigsaw-docs-template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -206,6 +190,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/source" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,12 +218,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571966052109</updated>
-      <workItem from="1571966053227" duration="2999000" />
+      <workItem from="1571966053227" duration="3157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2999000" />
+    <option name="totallyTimeSpent" value="3157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="2" width="2560" height="1411" extended-state="6" />
@@ -432,6 +421,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="69" lean-forward="false" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <marker date="1571969040034" expanded="true" signature="45:2289" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="114:2287" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="176:981" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="194:856" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="230:837" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="874:966" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1021:1368" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1055:1353" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1146:1334" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1461:2272" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1511:1890" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1546:1870" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1572:1676" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1723:1847" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1941:2257" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="1976:2237" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="2002:2103" ph="..." />
+            <marker date="1571969040034" expanded="true" signature="2150:2214" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1571969040870" expanded="true" signature="31:4285" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="38:1197" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="1071:1098" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="1307:4277" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="1396:1894" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="1473:1879" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="1513:1773" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="1607:1758" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="1853:1868" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="1939:4194" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="2013:4186" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="2075:2880" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="2093:2755" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="2129:2736" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="2773:2865" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="2920:3267" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="2954:3252" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3045:3233" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3360:4171" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3410:3789" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3445:3769" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3471:3575" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3622:3746" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3840:4156" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3875:4136" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="3901:4002" ph="..." />
+            <marker date="1571969040870" expanded="true" signature="4049:4113" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/img/docsearch.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/img/icon-stack.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/location.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/phone.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/office.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/build/mix-manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -440,14 +542,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="69" lean-forward="false" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
