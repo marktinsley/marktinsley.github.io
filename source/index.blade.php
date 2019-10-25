@@ -12,7 +12,7 @@
                     with Disabilities Act.</p>
             </div>
             <div>
-                <img src="/assets/images/office.png">
+                <img src="/assets/images/office.png" class="rounded-lg">
             </div>
         </div>
 
