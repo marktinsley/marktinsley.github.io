@@ -2,87 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dcd877a-844a-48a5-be4e-f1e140b8d689" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/404/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/build/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/build/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/build/mix-manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_archive.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_bag.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_bars.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_book-bookmark.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_book.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_bookmark-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_bookmark-remove.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_box.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_briefcase.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_button-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_button-remove.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_calendar.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_camera.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_cart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_chart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_chat.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_circle-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_circle-check.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_circle-remove.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_cloud-download.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_copy.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_credit-card.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_data.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_device-mobile.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_diamond.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_download.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_edit.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_email.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_expand.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_file.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_flag.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_folder.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_gallery.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_grid-list.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_grid.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_home.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_image.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_layers.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_list.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_location.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_lock.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_menu.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_mic.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_money.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_print.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_saturation.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_search.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_settings.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_speed.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_store.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_tag.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_time.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_trash.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_ui.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_upload.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_user.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_wallet.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_weather.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/images/sef/bikini60s_write.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/docsearch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/icon-stack.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/icon-terminal.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/icon-window.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/assets/img/magnifying-glass.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/algolia-docsearch/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/custom-404-page/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/customizing-your-site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/getting-started/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/docs/navigation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/sitemap.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/assets/images/office.png" afterPath="$PROJECT_DIR$/assets/images/office.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/assets/img/location.svg" afterPath="$PROJECT_DIR$/assets/img/location.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/assets/img/phone.svg" afterPath="$PROJECT_DIR$/assets/img/phone.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/build/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/build/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/build/mix-manifest.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -179,6 +101,17 @@
               <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
               <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="diagnostic-assessments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diagnostic-assessments" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="build" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -193,6 +126,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -218,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571966052109</updated>
-      <workItem from="1571966053227" duration="3157000" />
+      <workItem from="1571966053227" duration="3253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3157000" />
+    <option name="totallyTimeSpent" value="3253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="2" width="2560" height="1411" extended-state="6" />
