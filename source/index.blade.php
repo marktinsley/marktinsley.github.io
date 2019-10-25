@@ -49,7 +49,7 @@
                         <img src="/assets/img/phone.svg" class="h-8 w-8">
                     </div>
                     <div class="text-lg ml-2">
-                        505.239.6328
+                        (505) 239-6328
                     </div>
                 </div>
 
