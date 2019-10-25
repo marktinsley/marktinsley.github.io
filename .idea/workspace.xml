@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dcd877a-844a-48a5-be4e-f1e140b8d689" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/images/office.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/img/docsearch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/404/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/build/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/build/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/build/mix-manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/img/icon-stack.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/img/icon-terminal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/img/icon-window.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/img/location.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/img/magnifying-glass.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/assets/img/phone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/docs/algolia-docsearch/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/docs/custom-404-page/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/docs/customizing-your-site/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/docs/getting-started/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/docs/navigation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/sitemap.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
-    </list>
+    <list default="true" id="2dcd877a-844a-48a5-be4e-f1e140b8d689" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +11,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-              <folding />
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -272,12 +251,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571966052109</updated>
-      <workItem from="1571966053227" duration="2836000" />
+      <workItem from="1571966053227" duration="2862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2836000" />
+    <option name="totallyTimeSpent" value="2862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="2" width="2560" height="1411" extended-state="6" />
@@ -542,7 +521,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1571968416924" expanded="true" signature="45:2270" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="114:2268" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="176:962" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="194:856" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="230:837" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="874:947" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1002:1349" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1036:1334" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1127:1315" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1442:2253" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1492:1871" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1527:1851" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1553:1657" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1704:1828" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1922:2238" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1957:2218" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="1983:2084" ph="..." />
+            <marker date="1571968416924" expanded="true" signature="2131:2195" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
